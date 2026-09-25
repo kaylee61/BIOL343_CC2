@@ -41,8 +41,11 @@ Write the group members as an **ordered list** (Chapter 5, *Lists*). For each me
 5. **Sabrina Baker** — 20449887
     + [BIOL343_CC](https://github.com/sabrina-baker/BIOL343_CC02)
 6. **Téa Hope** — 20459579
-    + [BIOL343_CC](https://github.com/teahope20/BIOL343.git)
++[BIOL343_CC](https://github.com/teahope20/BIOL343.git)
 
+
+
+# Setup chunk
 
 The chunk below sets the default options for every other chunk in the document. Add the **chunk option** (Chapter 5, *Code Chunk Arguments*) that runs it without showing either the code or any output in the knitted report.
 

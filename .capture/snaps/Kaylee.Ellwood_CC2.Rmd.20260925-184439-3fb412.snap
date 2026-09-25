@@ -35,14 +35,17 @@ Write the group members as an **ordered list** (Chapter 5, *Lists*). For each me
 2. **Victoria Gutierrez** — 20517120
     + [BIOL343_Victoria-GA_CC2](https://github.com/Victoria-GA/BIOL343_TUT02-CC2_VictoriaGutierrez)
 3. **Margo Kaminska** - 20449041
-    + [BIOL343_CC](https://github.com/margo-kaminska/BIOL343)
+    +[BIOL343_CC](https://github.com/margo-kaminska/BIOL343)
 4. **Emma Popple** — 20467453
-    + [BIOL343_CC](https://github.com/emmapopple/BIOL343_CC)
+    +[BIOL343_CC](https://github.com/emmapopple/BIOL343_CC)
 5. **Sabrina Baker** — 20449887
-    + [BIOL343_CC](https://github.com/sabrina-baker/BIOL343_CC02)
+    +[BIOL343_CC](https://github.com/sabrina-baker/BIOL343_CC02)
 6. **Téa Hope** — 20459579
-    + [BIOL343_CC](https://github.com/teahope20/BIOL343.git)
+    + [BIOL343_CC](https://github.com/teahope20/BIOL343.git)
 
+
+
+# Setup chunk
 
 The chunk below sets the default options for every other chunk in the document. Add the **chunk option** (Chapter 5, *Code Chunk Arguments*) that runs it without showing either the code or any output in the knitted report.
 
