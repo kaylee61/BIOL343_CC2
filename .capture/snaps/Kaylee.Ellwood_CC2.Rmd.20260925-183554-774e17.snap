@@ -7,7 +7,7 @@ output:
         toc: true
         number_sections: true
         toc_float:
-            collapsed: false
+       ollapsed: false
 ---
 
 # DO THIS FIRST {-}
@@ -40,8 +40,6 @@ Write the group members as an **ordered list** (Chapter 5, *Lists*). For each me
     + [BIOL343_CC](https://github.com/emmapopple/BIOL343_CC)
 5. **Sabrina Baker** — 20449887
     + [BIOL343_CC](https://github.com/sabrina-baker/BIOL343_CC02)
-6. **Téa Hope** — 20459579
-    + [BIOL343_CC](https://github.com/teahope20/BIOL343.git)
 
 
 
